@@ -1,0 +1,5 @@
+5.0s 1 [NbConvertApp] Converting notebook script.ipynb to html
+8.8s 2 [NbConvertApp] Executing notebook with kernel: python3
+16.3s 3 [NbConvertApp] Support files will be in __results___files/
+[NbConvertApp] Making directory __results___files
+16.3s 4 [NbConvertApp] Writing 345300 bytes to __results__.html
